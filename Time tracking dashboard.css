@@ -1,0 +1,131 @@
+.body {
+    background-color: rgba(0, 0, 0, 0.745);
+}
+.colorblue {
+    background-color: rgba(0, 0, 255, 0.83);
+    height: 300px;
+    width: 15%;
+    margin-top: 5%;
+    margin-left: 1%;
+    border-radius: 15% 15% 0% 0%;
+}
+.imgman {
+    border-radius: 50%;
+    border: 2px solid white;
+    margin-top: 10%;
+    margin-left: 15%;
+    width: 30%;
+}
+.div {
+    margin-top: 15%;
+    margin-left: 18%;
+}
+.Geremy {
+    color: #eee;
+}
+.Report {
+    color: white;
+    margin-top: 5%;
+}
+.colorblack {
+    background-color: black;
+    height: 150px;
+    width: 100%;
+    margin-top: 29%;
+    margin-left: 0%;
+}
+.classp {
+    padding-top: 5%;
+    padding-left: 15%;
+    color: #888;
+}
+.classp:hover {
+    color: white;
+}
+.divimg {
+    border-radius: 0% 0% 5% 5%;
+    background-color: rgba(255, 68, 0, 0.67);
+    height: 60px;
+    width: 20%;
+    position: absolute;
+    top: 15%;
+    left: 20%;
+}
+.divimg3 {
+    border-radius: 0% 0% 5% 5%;
+    background-color: green;
+    height: 60px;
+    width: 100%;
+    position: absolute;
+    top: 480%;
+    left: 0%;
+}
+.divimg1 {
+    border-radius: 0% 0% 5% 5%;
+    background-color: rgba(137, 43, 226, 0.668);
+    height: 60px;
+    width: 100%;
+    position: absolute;
+    top: 0%;
+    left: 130%;
+}
+.divimg4 {
+    border-radius: 0% 0% 5% 5%;
+    background-color: rgb(137, 43, 226);
+    height: 60px;
+    width: 100%;
+    position: absolute;
+    top: 480%;
+    left: 130%;
+}
+.divimg2 {
+    border-radius: 0% 0% 5% 5%;
+    background-color: rgba(236, 28, 63, 0.84);
+    height: 60px;
+    width: 100%;
+    position: absolute;
+    top: 0%;
+    left: 270%;
+}
+.divimg5 {
+    border-radius: 0% 0% 5% 5%;
+    background-color: gold;
+    height: 60px;
+    width: 100%;
+    position: absolute;
+    top: 480%;
+    left: 270%;
+}
+.img7 {
+    width: 23%;
+    margin-left: 70%;
+}
+.divcolorblack {
+    background-color: black;
+    height: 190px;
+    width: 101.5%;
+    position: absolute;
+    top: 80%;
+    left: -1%;
+    border-radius: 10%;
+}
+.work {
+    padding-top: 11%;
+    padding-left: 10%;
+    color: white;
+}
+.imgnumber1 {
+    margin-top: -21%;
+    margin-left: 80%;
+}
+.divbox {
+    color: white;
+    margin-left: 9%;
+    margin-top: -15%;
+}
+.hrs {
+    font-size: 400%;
+}
+.hrs1 {
+    color: #888;
+}
